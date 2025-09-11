@@ -1,0 +1,21 @@
+# Core dependencies for TAS/rTAS implementation
+numpy>2.0
+matplotlib>=3.6
+scipy>=1.8
+
+# Optional: For development
+# mypy>=1.0
+# black>=23.0
+# flake8>=6.0
+
+# Optional: For documentation
+# sphinx>=6.0
+# sphinx-rtd-theme>=1.0
+# nbsphinx>=0.9
+
+# Optional: For Jupyter notebook experiments
+# jupyter>=1.0
+# ipykernel>=6.0
+# notebook>=7.0
+
+# Note: Python >= 3.9 required (specified in setup.py/pyproject.toml)
