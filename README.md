@@ -278,7 +278,7 @@ system.step(dt, c_dot1, c_dot2)
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{authors2024tas,
+@article{blattner2025tas,
   title={Tangential Action Spaces: Geometry, Memory and Cost in Holonomic and Nonholonomic Agents},
   author={Marcel Blattner},
   journal={arXiv preprint arXiv:2509.03399},
