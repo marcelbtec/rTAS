@@ -10,7 +10,7 @@ This repository provides the reference implementation and figure-generation code
 
 > **"Tangential Action Spaces: Geometry, Memory and Cost in Holonomic and Nonholonomic Agents"**
 > 
-> Authors: [Author Names]  
+> Authors:  Marcel Blattner 
 > Preprint: [arXiv:2509.03399 ](https://arxiv.org/abs/2509.03399)
 
 The codebase implements the theoretical framework of Tangential Action Spaces (TAS) and its reflective extension (rTAS), demonstrating fundamental principles of embodied agency through geometric constructions, energy-memory trade-offs, and multi-agent dynamics.
