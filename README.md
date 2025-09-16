@@ -290,6 +290,4 @@ If you use this code in your research, please cite:
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
----
 
-**Note**: Some docstrings may reference legacy filenames. Use the scripts as provided in this repository.
