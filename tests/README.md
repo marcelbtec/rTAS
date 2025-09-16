@@ -28,13 +28,6 @@ python tests/test_rtas_simple.py
 
 No additional dependencies required beyond the main requirements.
 
-## Key Differences from Original Tests
-
-These tests:
-- Use only functions that actually exist in the repository
-- Test the specific implementations (strip-sine) rather than abstract interfaces
-- Include hidden fiber energy when computing total cost
-- Use appropriate numerical tolerances for the discretization
 
 ## Test Results
 
