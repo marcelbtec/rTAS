@@ -130,7 +130,7 @@ rTAS/
 
 ```bash
 # Clone repository
-git clone https://github.com/[username]/rTAS.git
+git clone https://github.com/marcelbtec/rTAS.git
 cd rTAS
 
 # Create virtual environment
